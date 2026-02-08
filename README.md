@@ -1,1 +1,1 @@
-# git-practice
+Mijo, we're the dynamic duo
